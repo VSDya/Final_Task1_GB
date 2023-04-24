@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="vdyad"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-04-24 10:28:22 "/>
+        <attribute name="created" value="dmR5YWQ7REVTS1RPUC03NkZPSDBTOzIwMjMtMDQtMTY7IjExOjUyOjQ5ICI7Mjc3NQ=="/>
+        <attribute name="edited" value="dmR5YWQ7REVTS1RPUC03NkZPSDBTOzIwMjMtMDQtMTY7IjEyOjE2OjUzICI7MTt2ZHlhZDtERVNLVE9QLTc2Rk9IMFM7MjAyMy0wMi0wMzsiMDM6NTA6NTQgIjvQl9Cw0LTQsNC90LjQtSDQvdCwIMKr0YDQsNC30LLQvtGA0L7RgsK7INC80LDRgdGB0LjQstCwLiDQndGD0LbQvdC+INC/0LXRgNC10LLQtdGA0L3Rg9GC0Ywg0LzQsNGB0YHQuNCyINC4INC30LDQv9C40YHQsNGC0Ywg0LXQs9C+INCyINC+0LHRgNCw0YLQvdC+0Lwg0L/QvtGA0Y/QtNC60LUuLmZwcmc7ODcxMDA="/>
+        <attribute name="edited" value="dmR5YWQ7REVTS1RPUC03NkZPSDBTOzIwMjMtMDQtMjQ7IjEwOjI4OjIyICI7MzsyODc3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="&#1047;&#1072;&#1076;&#1072;&#1095;&#1072;: &#1053;&#1072;&#1087;&#1080;&#1089;&#1072;&#1090;&#1100; &#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1091;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1072;&#1103; &#1080;&#1079; &#1080;&#1084;&#1077;&#1102;&#1097;&#1077;&#1075;&#1086;&#1089;&#1103; &#1084;&#1072;&#1089;&#1089;&#1080;&#1074;&#1072; &#1089;&#1090;&#1088;&#1086;&#1082; &#1092;&#1086;&#1088;&#1084;&#1080;&#1088;&#1091;&#1077;&#1090; &#1085;&#1086;&#1074;&#1099;&#1081; &#1084;&#1072;&#1089;&#1089;&#1080;&#1074; &#1080;&#1079; &#1089;&#1090;&#1088;&#1086;&#1082;, &#1076;&#1083;&#1080;&#1085;&#1072; &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093; &#1084;&#1077;&#1085;&#1100;&#1096;&#1077;, &#1083;&#1080;&#1073;&#1086; &#1088;&#1072;&#1074;&#1085;&#1072; 3 &#1089;&#1080;&#1084;&#1074;&#1086;&#1083;&#1072;&#1084;. &#1055;&#1077;&#1088;&#1074;&#1086;&#1085;&#1072;&#1095;&#1072;&#1083;&#1100;&#1085;&#1099;&#1081; &#1084;&#1072;&#1089;&#1089;&#1080;&#1074; &#1084;&#1086;&#1078;&#1085;&#1086; &#1074;&#1074;&#1077;&#1089;&#1090;&#1080; &#1089; &#1082;&#1083;&#1072;&#1074;&#1080;&#1072;&#1090;&#1091;&#1088;&#1099;, &#1083;&#1080;&#1073;&#1086; &#1079;&#1072;&#1076;&#1072;&#1090;&#1100; &#1085;&#1072; &#1089;&#1090;&#1072;&#1088;&#1090;&#1077; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1103; &#1072;&#1083;&#1075;&#1086;&#1088;&#1080;&#1090;&#1084;&#1072;. &#1055;&#1088;&#1080; &#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1080; &#1085;&#1077; &#1088;&#1077;&#1082;&#1086;&#1084;&#1077;&#1085;&#1076;&#1091;&#1077;&#1090;&#1089;&#1103; &#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1100;&#1089;&#1103; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1103;&#1084;&#1080;, &#1083;&#1091;&#1095;&#1096;&#1077; &#1086;&#1073;&#1086;&#1081;&#1090;&#1080;&#1089;&#1100; &#1080;&#1089;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086; &#1084;&#1072;&#1089;&#1089;&#1080;&#1074;&#1072;&#1084;&#1080;.&#13;&#10;&#1055;&#1088;&#1080;&#1084;&#1077;&#1088;&#1099;:&#13;&#10;[&#8220;Hello&#8221;, &#8220;2&#8221;, &#8220;world&#8221;, &#8220;:-)&#8221;] &#8594; [&#8220;2&#8221;, &#8220;:-)&#8221;]&#13;&#10;[&#8220;1234&#8221;, &#8220;1567&#8221;, &#8220;-2&#8221;, &#8220;computer science&#8221;] &#8594; [&#8220;-2&#8221;]&#13;&#10;[&#8220;Russia&#8221;, &#8220;Denmark&#8221;, &#8220;Kazan&#8221;] &#8594; []"/>
+            <output expression="&quot;&#1042;&#1074;&#1077;&#1076;&#1080;&#1090;&#1077; &#1088;&#1072;&#1079;&#1084;&#1077;&#1088; &#1084;&#1072;&#1089;&#1089;&#1080;&#1074;&#1072;&quot;" newline="True"/>
+            <declare name="size" type="Integer" array="False" size=""/>
+            <input variable="size"/>
+            <declare name="Array" type="String" array="True" size="size"/>
+            <declare name="index" type="Integer" array="False" size=""/>
+            <assign variable="index" expression="0"/>
+            <while expression="index &lt; size">
+                <input variable="Array[index]"/>
+                <assign variable="index" expression="index + 1"/>
+            </while>
+            <assign variable="index" expression="0"/>
+            <output expression="&quot;&#1055;&#1086;&#1083;&#1091;&#1095;&#1077;&#1085;&#1085;&#1099;&#1081; &#1084;&#1072;&#1089;&#1089;&#1080;&#1074;&quot;" newline="True"/>
+            <output expression="&quot;[&quot;" newline="False"/>
+            <while expression="index &lt; size">
+                <output expression="array[index]&amp;&quot; &quot;" newline="False"/>
+                <assign variable="index" expression="index + 1"/>
+            </while>
+            <output expression="&quot;]&quot;" newline="False"/>
+            <assign variable="index" expression="0"/>
+            <declare name="arrayResult" type="String" array="True" size="size"/>
+            <declare name="temp" type="Integer" array="False" size=""/>
+            <assign variable="temp" expression="0"/>
+            <for variable="index" start="0" end="size - 1" direction="inc" step="1">
+                <if expression="len(array[index]) &lt;= 3">
+                    <then>
+                        <assign variable="arrayResult[temp]" expression="array[index]"/>
+                        <assign variable="temp" expression="temp + 1"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot; -&gt; [&quot;" newline="False"/>
+            <for variable="index" start="0" end="temp - 1" direction="inc" step="1">
+                <output expression="arrayResult[index]&amp;&quot; &quot;" newline="False"/>
+            </for>
+            <output expression="&quot;]&quot;" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
